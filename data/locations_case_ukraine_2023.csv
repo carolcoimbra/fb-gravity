@@ -1,0 +1,7 @@
+,name,key,type,audience,audience_lower,audience_upper,audience_mean
+japan,Japan,JP,country,15050000,56500000,66500000,61500000.0
+spain,Spain,ES,country,19350000,32500000,38200000,35350000.0
+france,France,FR,country,30400000,41900000,49300000,45600000.0
+ukraine,Ukraine,UA,country,12850000,18100000,21300000,19700000.0
+italy,Italy,IT,country,27950000,39500000,46400000,42950000.0
+germany,Germany,DE,country,24500000,42000000,49400000,45700000.0
